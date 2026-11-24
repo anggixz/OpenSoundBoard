@@ -10,7 +10,16 @@ The application is built on a hybrid architecture leveraging **Tauri v2 (Rust)**
 
 ---
 
+## Preview
+
+![OpenSoundBoard Desktop Preview 1](preview1.png)
+
+![OpenSoundBoard Desktop Preview 2](preview2.png)
+
+---
+
 ## Table of Contents
+- [Preview](#preview)
 - [Architecture & Core Components](#architecture--core-components)
 - [Feature Specifications](#feature-specifications)
   - [1. Audio Engine & Dual Routing](#1-audio-engine--dual-routing)

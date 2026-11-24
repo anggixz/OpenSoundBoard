@@ -10,7 +10,16 @@ Aplikasi dibangun menggunakan arsitektur hybrid **Tauri v2 (Rust)** pada lapisan
 
 ---
 
+## Preview
+
+![OpenSoundBoard Desktop Preview 1](preview1.png)
+
+![OpenSoundBoard Desktop Preview 2](preview2.png)
+
+---
+
 ## Daftar Isi
+- [Preview](#preview)
 - [Arsitektur & Komponen Utama](#arsitektur--komponen-utama)
 - [Spesifikasi Fitur](#spesifikasi-fitur)
   - [1. Audio Engine & Dual Routing](#1-audio-engine--dual-routing)
